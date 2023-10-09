@@ -1,0 +1,149 @@
+一、学习如何安装git，并会用基本命令创建文件，删除文件；安装时的路径若在默认盘，则无法直接进行文件的创建，需要用cd命令打开另一个盘创建、或者在另一个盘中启动git bash来进行创建；
+学会了一些基本的命令操作，用来复制文件或删除文件。
+二、ls----显示当前文件内的内容；
+    cd----打开文件；
+    mkdir-----创建文件夹；
+    rmdir-----删除文件（文件为空文件），若文件内有文件一起删除则用 rm -r +文件名  来删除；
+    cp +文件路径------将文件拷贝在当前文件；
+    history----查看输入过的命令；
+三、
+    1  ls 
+    2  cd
+    3  cd/
+    4  cd /
+    5  ls
+    6  cd /
+    7  ls
+    8  mkdir cl
+    9  md
+   10  mkdir cl
+   11  cd
+   12  cd /
+   13  ls
+   14  proc
+   15  proc/
+   16  mkdir cl
+   17  md
+   18  mkdir cl
+   19  cd /
+   20  ls
+   21  mkkir cl
+   22  mkkir cl
+   23  md
+   24  mkdir cl
+   25  md
+   26  mkdir long
+   27  cd /
+   28  ls
+   29  mkdir cl
+   30  mkdir sb
+   31  cd /
+   32  ls
+   33  mkdir cl
+   34  mkdir sd
+   35  cd /
+   36  ls
+   37  mkdir chenlong
+   38  mkdir pyy
+   39  history
+   40  cd
+   41  cd /
+   42  ls
+   43  mkdir cl
+   44  CD /
+   45  cd /
+   46  ls
+   47  md
+   48  mkdir cl
+   49  cd
+   50  cd /
+   51  ls
+   52  mkdir cl
+   53  cd
+   54  cd /
+   55  ls
+   56  mkdir cl
+   57  cd c:
+   58  cd Program Files
+   59  cd Program Files:
+   60  cd
+   61  cd /
+   62  mkdir cl
+   63  cd Desktop
+   64  mkdir cl
+   65  cd cl
+   66  cd ..
+   67  cd
+   68  cd /
+   69  mkdir xg
+   70  cd ..
+   71  cd cl
+   72  ls
+   73  cd cl
+   74  cp /汇编2 .
+   75  cp /汇编2.word . -R
+   76  cd
+   77  cd /
+   78  cd /Desktop
+   79  cd cl
+   80  mkdir face
+   81  cp /c/Desktop/hai . -R
+   82  cp /C/Users/CL18214925767/Desktop . -R
+   83  history
+   84  cp /desktop/汇编2.docx . -R
+   85  cp /users/CL18214925767/desktop/汇编2.docx . -R
+   86  cp /c/users/CL18214925767/desktop/汇编2.docx . -R
+   87  cd cl:
+   88  ls/cl
+   89  cd /d/clgit/
+   90  mkdir face
+   91  cp /c/users/CL18214925767/Desktop/汇编2.docx . -R
+   92  rmdir face
+   93  mkdir photo
+   94  rmdir ppoto
+   95  cp /c/users/CL18214925767/Desktop/face . -R
+   96  rmdir photo
+   97  history
+   98  cp /c/users/CL18214925767/Desktop/face/* .
+   99  cd
+  100  cd /d/clgit
+  101  ls
+  102  ls
+  103  ls
+  104  rmdir face
+  105  rmdir 汇编2.docx
+  106  rm 汇编2.docx
+  107  rm ph1
+  108  rm ph1.jpg
+  109  rm ph2.jpg
+  110  cp /c/users/CL18214925767/Desktop/face/* .
+  111  ls
+  112  cp /c/users/CL18214925767/Desktop/face . -R
+  113  LS
+  114  rmdir face
+  115  rm -r face
+  116  ls
+  117  rm ph1.jpg
+  118  rm ph2.jpg
+  119  rm ph2.jpg
+  120  rm ph3.jpg
+  121  rm ph4.jpg
+  122  ls
+  123  mkdir ph
+  124  ls
+  125  cp /c/users/CL18214925767/Desktop/face . -R
+  126  cp /c/users/CL18214925767/Desktop/face/* .
+  127  ls
+  128  cd /d/clgit
+  129  ls
+  130  cd .
+  131  cd ..
+  132  cd /clgit
+  133  cd /clgit/
+  134  cd /d/clgit
+  135   ls
+  136  cd ..
+  137  ls
+  138  cd /d/clgit
+  139  cd
+  140  history
